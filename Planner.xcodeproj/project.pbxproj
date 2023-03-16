@@ -16,6 +16,7 @@
 		766D284B29B2458500F8D258 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 766D284A29B2458500F8D258 /* Preview Assets.xcassets */; };
 		766D285329B26F9600F8D258 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766D285229B26F9600F8D258 /* Color.swift */; };
 		766D285529B273A700F8D258 /* MyTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766D285429B273A700F8D258 /* MyTabView.swift */; };
+		7677543029C30A21009BDEA5 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7677542F29C30A21009BDEA5 /* Test.swift */; };
 		767A682129BECD49005236C0 /* CurrentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 767A682029BECD49005236C0 /* CurrentView.swift */; };
 		768EDA0729B574FA00F3BE4A /* RadioButtonGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 768EDA0629B574FA00F3BE4A /* RadioButtonGroup.swift */; };
 		768EDA0929B575B900F3BE4A /* RadioBttuon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 768EDA0829B575B900F3BE4A /* RadioBttuon.swift */; };
@@ -32,6 +33,7 @@
 		766D284A29B2458500F8D258 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		766D285229B26F9600F8D258 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		766D285429B273A700F8D258 /* MyTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabView.swift; sourceTree = "<group>"; };
+		7677542F29C30A21009BDEA5 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		767A682029BECD49005236C0 /* CurrentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentView.swift; sourceTree = "<group>"; };
 		768EDA0629B574FA00F3BE4A /* RadioButtonGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioButtonGroup.swift; sourceTree = "<group>"; };
 		768EDA0829B575B900F3BE4A /* RadioBttuon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioBttuon.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				76F8E61729C13738007E7E8D /* Info.plist */,
 				766D285229B26F9600F8D258 /* Color.swift */,
 				766D284329B2458200F8D258 /* PlannerApp.swift */,
+				7677542F29C30A21009BDEA5 /* Test.swift */,
 				766D284529B2458200F8D258 /* ContentView.swift */,
 				767A682029BECD49005236C0 /* CurrentView.swift */,
 				765589C229BD04C20036507A /* CalenderView.swift */,
@@ -169,6 +172,7 @@
 				765589BF29BCDC810036507A /* RadioButton1.swift in Sources */,
 				766D284429B2458200F8D258 /* PlannerApp.swift in Sources */,
 				768EDA0729B574FA00F3BE4A /* RadioButtonGroup.swift in Sources */,
+				7677543029C30A21009BDEA5 /* Test.swift in Sources */,
 				768EDA0929B575B900F3BE4A /* RadioBttuon.swift in Sources */,
 				765589C329BD04C20036507A /* CalenderView.swift in Sources */,
 				766D285529B273A700F8D258 /* MyTabView.swift in Sources */,
